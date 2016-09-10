@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "niceClass": 1,
+      "standardPhrase": "Standard Phrase 1",
+      "incompatibility": [
+      {
+          "niceClass": 1,
+          "status": "COMPATIBLE"
+      },
+      {
+          "niceClass": 2,
+          "status": "INCOMPATIBLE"
+      },
+      {
+          "niceClass": 3,
+          "status": "COMPATIBLE"
+      }
+        ]
+    }
+  ]
+}
